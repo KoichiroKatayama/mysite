@@ -1,4 +1,3 @@
-
 # Create your views here.
 
 from .models import Question, Choice
